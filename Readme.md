@@ -55,7 +55,7 @@ Now to do the **SUM** with the other elements on the same array we must iterate 
 
 ```Kotlin
 for (i in nums.indices){
-            for(j in nums.indices){
+            for(j in nums.indices){}}
 ```
 
 This has a Big problem that the excercise description told us not to do it.
